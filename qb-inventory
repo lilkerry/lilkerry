@@ -1,0 +1,74 @@
+{
+    "weed": {
+        "name": "weed",
+        "label": "Weed",
+        "weight": 100,
+        "type": "item",
+        "image": "weed.png",
+        "unique": false,
+        "useable": false,
+        "shouldClose": true,
+        "combinable": null,
+        "description": "Raw weed"
+    },
+    "weed_bag": {
+        "name": "weed_bag",
+        "label": "Weed Bag",
+        "weight": 100,
+        "type": "item",
+        "image": "weed_bag.png",
+        "unique": false,
+        "useable": false,
+        "shouldClose": true,
+        "combinable": null,
+        "description": "Processed weed ready to sell"
+    },
+    "cocaine": {
+        "name": "cocaine",
+        "label": "Cocaine",
+        "weight": 100,
+        "type": "item",
+        "image": "cocaine.png",
+        "unique": false,
+        "useable": false,
+        "shouldClose": true,
+        "combinable": null,
+        "description": "Raw cocaine"
+    },
+    "cocaine_bag": {
+        "name": "cocaine_bag",
+        "label": "Cocaine Bag",
+        "weight": 100,
+        "type": "item",
+        "image": "cocaine_bag.png",
+        "unique": false,
+        "useable": false,
+        "shouldClose": true,
+        "combinable": null,
+        "description": "Processed cocaine ready to sell"
+    },
+    "methamphetamine": {
+        "name": "methamphetamine",
+        "label": "Methamphetamine",
+        "weight": 100,
+        "type": "item",
+        "image": "methamphetamine.png",
+        "unique": false,
+        "useable": false,
+        "shouldClose": true,
+        "combinable": null,
+        "description": "Raw methamphetamine"
+    },
+    "methamphetamine_bag": {
+        "name": "methamphetamine_bag",
+        "label": "Methamphetamine Bag",
+        "weight": 100,
+        "type": "item",
+        "image": "meth_bag.png",
+        "unique": false,
+        "useable": false,
+        "shouldClose": true,
+        "combinable": null,
+        "description": "Processed methamphetamine ready to sell"
+    }
+}
