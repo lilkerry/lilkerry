@@ -1,0 +1,11 @@
+-- Ingredients
+- pseudoephedrine
+- coca_leaf
+- cannabis
+- poppy
+
+-- Products
+- meth
+- coke
+- weed
+- heroin
